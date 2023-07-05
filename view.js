@@ -4,7 +4,7 @@ async function  run(){
     template1='<tr>\n<th>${SNO}<th>\n<input type="checkbox" id="${SNO}">\n<th>${dataWeb}</th>\n${data}</tr>'
     template2='<td><a href="${link}">${link_shot}</a><input type="checkbox" id="${SNO_i}"></td>\n'
     maintext=''
-    data=await fetch("/newData.json");
+    data=await fetch("./newData.json");
     data=await data.json()
     window.data=data
     console.log(data)
