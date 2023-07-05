@@ -5,6 +5,7 @@
 - `pip install dotenv pyzmail36 webbrowser beautifulsoup4` --> windows
 
 ## How to Run
+- Clone it by `git clone iamthehimansh/UnsubscribeMail`
 - Save your email ans pass to .env `echo 'email="YOUR_EMAIL"\npassword="YOUR_PASSWORD"' >> .env` or set to Your env variable.
 - Run `python3 main.py`
 - Open `view.html`
