@@ -12,3 +12,13 @@
 - Select and Download it
 - move to this folder 
 - Run `python3 unsubs.py`
+
+
+## To create an app password for Gmail, you can do the following: 
+  - Go to your Google Account
+  - Select Security
+  - Under "Signing in to Google," select 2-Step Verification
+  - At the bottom of the page, select App passwords
+  - Enter a name that helps you remember where you'll use the app password
+  - Select Generate
+### App password for Gmail bypass two step auth
