@@ -1,8 +1,8 @@
 # UnsubscribeMail
 
 ## Install
-- `pip3 install dotenv pyzmail36 webbrowser beautifulsoup4` --> mac or linux
-- `pip install dotenv pyzmail36 webbrowser beautifulsoup4` --> windows
+- `pip3 install python-dotenv pyzmail36  beautifulsoup4` --> mac or linux
+- `pip install python-dotenv pyzmail36  beautifulsoup4` --> windows
 
 ## How to Run
 - Clone it by `git clone https://github.com/iamthehimansh/UnsubscribeMail.git`
